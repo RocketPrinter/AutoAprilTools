@@ -5,6 +5,7 @@ This python script takes a video, splits it into an image sequence using cv2, es
 
 # Usage
 1. Import `colorama` and `opencv-python`.
+
  `python -m pip colorama
  python -m pip opencv-python`
  
@@ -13,6 +14,7 @@ This python script takes a video, splits it into an image sequence using cv2, es
  Example: `aprilToolsPath = "D:\Blender\AprilTools\AprilTools.exe"`
 
 3. Run it:
+
 'python <script path> <video path>'
 Example: `python D:\Blender\AutoAprilTools.py D:\Blender\test\P1030256.MP4`
 # Why
