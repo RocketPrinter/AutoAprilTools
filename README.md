@@ -7,6 +7,7 @@ This python script takes a video, splits it into an image sequence using cv2, es
 1. Import `colorama` and `opencv-python`.
 
  > python -m pip colorama
+ 
  > python -m pip opencv-python
  
  2. Download [AprilTools](https://github.com/thegoodhen/AprilTools) and set the exe's path in the script
